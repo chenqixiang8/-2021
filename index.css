@@ -2,15 +2,27 @@
 #red{
   color: red;
 }
-#blue{
+#l{
   color: blue;
 }
-#yellow{
+#h{
   color: yellow;
 }
-#black{
+#h{
   color: black;
 }
-#none{
+#no{
   color: none;
+}
+#c{
+  color: orange;
+}
+#f{
+  color: pink;
+}
+#z{
+  color: violet;
+}
+#l{
+  color: green;
 }
